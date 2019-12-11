@@ -1,22 +1,12 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "블로그 생성!"
+date: 2019-12-11 03:26:28 +0900
+categories: jekyll update minimal-mistakes
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+첫 블로그글이다. 30살이 되면서 뭐라도 하나할까 생각하다 이 블로그를 만들게 되었다.
+Markdown 언어가 익숙하지 않아서 [Demo 글] 을 보고 복사했다.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+30살부터라도 블로그를 시작하려한다. 늦었다고 생각할때가 너무 늦었지만.. 지금이라도 시작해봐야겠다..
+얼마나 자주쓸지... 블로그가 얼마나 갈지는 아무도 모른다... 시작이 반이다..
 
-Jekyll also offers powerful support for code snippets:
-
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[Demo 글]: https://dreamgonfly.gith.io/2018/01/27/jekyll-remote-theme.html
