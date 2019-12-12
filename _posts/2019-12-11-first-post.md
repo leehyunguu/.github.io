@@ -1,6 +1,6 @@
 ---
 title: "블로그 생성!"
-date: 2019-12-11 03:26:28 +0900
+date: 2019-12-11
 categories: jekyll update minimal-mistakes
 ---
 첫 블로그글이다. 30살이 되면서 뭐라도 하나할까 생각하다 이 블로그를 만들게 되었다.
