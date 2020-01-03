@@ -21,5 +21,5 @@ URL에 특수문자가 포함 될 경우 어떤예외상황이 나타나는지 �
 [이 글]: https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%9D%B4%EC%8A%A464
 [URLEncoder]: https://docs.oracle.com/javase/8/docs/api/java/net/URLEncoder.html
 [URLDecoder]: https://docs.oracle.com/javase/8/docs/api/java/net/URLDecoder.html
-[Base64.encodeBase64URLSafeString]: https://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/binary/Base64.html#encodeBase64URLSafeString
-[Base64.decodeBase64]: https://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/binary/Base64.html#decodeBase64
+[Base64.encodeBase64URLSafeString]: http://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/binary/Base64.html#encodeBase64String-byte:A-
+[Base64.decodeBase64]: http://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/binary/Base64.html#decodeBase64-java.lang.String-
