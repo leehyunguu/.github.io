@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "입안에쥐가"
+  name   : "이현규"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "게임, 노래 좋아하는 개발자"
   location: "한국 어딘가..."
