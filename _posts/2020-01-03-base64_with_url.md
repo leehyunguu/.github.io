@@ -13,7 +13,7 @@ URL에 Base64 인코딩된 String을 포함하여 Query String을 구성하여 �
 
 검색 후에 확인한 처리 방법은 두가지 정도가 있다.
 
-1. Encoding을 할때 [URLEncoder]를 통해서 Encoding후 보내고, Decoding할 때 [URLDecoder]를 통해서 Decoder를 하는 방법
+1. Encoding을 할때 [URLEncoder]를 통해서 Encoding후 보내고, Decoding할 때 [URLDecoder]를 통해서 Decoding를 하는 방법
 2. Base64로 변환할 때 [Base64.encodeBase64URLSafeString]을 통해 URL Safe한 Encoding을 하고, [Base64.decodeBase64]를 통해 Decoding을 하는 방법
 
 URL에 특수문자가 포함 될 경우 어떤예외상황이 나타나는지 확인하고 개발해야겠다..
