@@ -1,7 +1,7 @@
 ---
 title: JVM 변수
 date: 2020-09-02
-categories: diary jvm
+categories: jvm
 ---
 이번에 인수 가이드대로 JVM 환경변수를 적용하면서,
 

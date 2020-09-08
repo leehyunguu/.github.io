@@ -1,7 +1,7 @@
 ---
 title: "Base64로 구성된 URL 호출 시 주의사항"
 date: 2020-01-03
-categories: diary base64 url encoding 
+categories: base64 url encoding 
 ---
 버그 발생!
 

@@ -1,7 +1,7 @@
 ---
 title: Spring boot Embedded Tomcat Config
 date: 2020-09-04
-categories: diary spring-boot
+categories: spring-boot
 ---
 인수 가이드에서 Tomcat의 web.xml 설정을 해야했는데, Spring boot 내장 Tomcat에서 Java Config로 적용을 했다.
 
