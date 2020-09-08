@@ -19,17 +19,17 @@ categories: diary jvm
 |-Xmx1024m|Heap 메모리 최대 Size|
 |-XX:NewSize=256m|New 영역 최소 Size|
 |-XX:MaxNewSize=256m|New 영역 최대 Size|
-|-XX:SurvivorRatio=8|New 영역 내 Survivor 영역과 Eden 영역의 비율 설정(1:8)[참고1]|
+|-XX:SurvivorRatio=8|New 영역 내 Survivor 영역과 Eden 영역의 비율 설정(1:8)[[참고1]]|
 |-XX:MetaspaceSize=256m|MetaspaceSize 영역 최소 Size(1.8 이전:-XX:PermSize)|
 |-XX:MaxMetaspaceSize=512m|MetaspaceSize 영역 최대 Size(1.8 이전:-XX:MaxPermSize)|
-|-XX:MaxDirectMemorySize=512m|Non-heap 메모리 최대 Size 설정[참고2]|
+|-XX:MaxDirectMemorySize=512m|Non-heap 메모리 최대 Size 설정[[참고2]]|
 |-XX:+UseParallelGC|Miner GC를 병렬로 처리|
 |-XX:ParallelGCThreads=20|동시에 GC를 수행할 Thread 갯수 설정|
 |-XX:MaxGCPauseMillis=200|최대 GC 중지 시간|
-|-XX:+UseG1GC|G1GC를 사용하도록 설정[참고3]|
+|-XX:+UseG1GC|G1GC를 사용하도록 설정[[참고3]]|
 |-XX:+UnlockExperimentalVMOptions|VM 플래그를 확장|
 |-XX:+UnlockDiagnosticVMOptions|VM 플래그를 확장|
-|-XX:+G1SummarizeConcMark|Concurrent Marking 정보를 출력[참고4]|
+|-XX:+G1SummarizeConcMark|Concurrent Marking 정보를 출력[[참고4]]|
 |-XX:InitiatingHeapOccupancyPercent=45|설정된 Heap 메모리 사용 비율에 따라 GC 발생|
 |-XX:G1ReservePercent=10|오버플로우 위험을 감소시키기 위해 예비 메모리를 백분율로 설정|
 |-XX:G1HeapRegionSize=32m|Heap 영역을 균일한 크기의 영역으로 세분화 설정 시 사용|
