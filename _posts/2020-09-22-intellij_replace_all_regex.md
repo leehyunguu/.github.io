@@ -15,4 +15,4 @@ Replace All을 사용했다.
 
 그 후 <code>categories: diary</code>로 Replace All을 해주면 된다.
 
-이렇게 Regex를 이용해 뒤에 추가로 분터있는 글자들을 모두 없앨 수 있다.
+이렇게 Regex를 이용해 뒤에 추가로 붙어있는 글자들을 모두 없앨 수 있다.
